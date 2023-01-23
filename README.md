@@ -4,7 +4,7 @@
 
 I am an intelligent and enthusiastic indidual, with a passion for programming. 
 I have been interested in coding for many years and have recently taken the plunge into
-learning how to create apps and web pages. I have recently completed Software Engineering Skills Bootcamp cousre with Hyperion Dev 
+learning how to create apps and web pages. I have recently completed Software Engineering Skills Bootcamp course with Hyperion Dev 
 and I have completed many projects, some of which I will be uploading to GitHub.
 I have also begun to study independantly in order to expand on my knowledge and skillset. 
 Looking into learning new coding languages and new uses and applications for what I have learnt.  
